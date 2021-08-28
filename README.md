@@ -10,6 +10,7 @@ import sqlite3
 conn = sqlite3.connect("database_name")
 
 IDE used : PyCharm  (used to establish connection and retrieve data)
+
 Database : SQLiteStudio (used to create , edit , delete SQLite database)
 
 

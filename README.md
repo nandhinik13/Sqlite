@@ -6,4 +6,5 @@ I have created a SQLite database named datamovies ,where in I stored few movie n
 Syntax to establish connection in python 
  
 import sqlite3
+
 conn = sqlite3.connect("database_name")
